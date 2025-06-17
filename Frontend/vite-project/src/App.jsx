@@ -15,7 +15,7 @@ const App = () => {
         <Route path="/notes/:id" element={<NoteDetailPage />}/>
       </Routes>
     </div>
-  )
-}
+  );
+};
 
 export default App
